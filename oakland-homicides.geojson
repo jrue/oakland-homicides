@@ -1,0 +1,1391 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.281404,37.810104 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"1/4/17",
+    "Name":"Devonte M. Thomas",
+    "Method":"shot",
+    "Location":"16th & Myrtle",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.165109,37.750833 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"1/12/17",
+    "Name":"Bernard Beard",
+    "Method":"shot",
+    "Location":"9300 block Sunnyside",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.195897,37.788262 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"2/4/17",
+    "Name":"Joaquin Byrd",
+    "Method":"shot",
+    "Location":"4215 MacArthur",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"18"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.188222,37.766641 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"2/11/17",
+    "Name":"Darnell Foster",
+    "Method":"shot",
+    "Location":"6500 block Avenal",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.229408,37.771845 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"2/8/17",
+    "Name":"Lorenzo Castrejon",
+    "Method":"shot",
+    "Location":"3100 block Chapman",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.234486,37.790465 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"2/13/17",
+    "Name":"Justin Sessions",
+    "Method":"shot",
+    "Location":"2000 block E. 21st St.",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"25"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.174416,37.734708 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"2/15/17",
+    "Name":"Unidentified man",
+    "Method":"shot",
+    "Location":"106th Ave. & Russet",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.271133,37.819015 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"2/13/17",
+    "Name":"Valybro Hill",
+    "Method":"stabbed",
+    "Location":"2800 block Martin Luther King",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.284174,37.808523 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"2/22/17",
+    "Name":"Phillip Fai Low",
+    "Method":"beaten",
+    "Location":"Lowell Park",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"55"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.186066,37.763413 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"2/26/17",
+    "Name":"Marquise Boyd",
+    "Method":"shot",
+    "Location":"1700 block 69th Ave.",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.190557,37.767255 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"3/4/17",
+    "Name":"David McCann",
+    "Method":"shot",
+    "Location":"6300 block Hilton",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"23"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.27078,37.845126 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"3/11/17",
+    "Name":"Sultan Bey",
+    "Method":"shot",
+    "Location":"800 block 60th St.",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"18"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.177605,37.762286 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"3/11/17",
+    "Name":"Rene Cabrera",
+    "Method":"shot",
+    "Location":"2200 block Dashwood",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.153343,37.754285 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"2/17/17",
+    "Name":"Jesse Enjaian",
+    "Method":"shot by police",
+    "Location":"Las Vegas Avenue",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.19194,37.738275 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"3/27/17",
+    "Name":"Jevon Wilson",
+    "Method":"shot",
+    "Location":"9100 block Date",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"39"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1553,37.739388 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"3/26/17",
+    "Name":"Leland Hodge",
+    "Method":"stabbed",
+    "Location":"10900 Bancroft",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"57"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.159884,37.751559 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"3/29/17",
+    "Name":"Keith Lawrence",
+    "Method":"shot",
+    "Location":"9500 block MacArthur",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257867,37.79778 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"4/11/17",
+    "Name":"Tyrone Jordan",
+    "Method":"shot",
+    "Location":"100 block E. 12th",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.222674,37.769082 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"4/30/17",
+    "Name":"Robert McCorvey",
+    "Method":"shot",
+    "Location":"4000 block Alameda",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.247103,37.795708 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"4/12/17",
+    "Name":"Luis Urquidez",
+    "Method":"shot",
+    "Location":"800 block E. 18th",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.229989,37.784656 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"5/2/17",
+    "Name":"Winifred Bickham",
+    "Method":"blunt trauma",
+    "Location":"2500 block Foothill",
+    "City":"Oakland",
+    "Sex":"Female",
+    "Age":"68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.215762,37.76954 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"5/8/17",
+    "Name":"Allan Beene",
+    "Method":"stabbed",
+    "Location":"4500 block San Leandro",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"37"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.197132,37.759646 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"4/9/17",
+    "Name":"Dennis Lamar James",
+    "Method":"shot",
+    "Location":"1000 block 66th Ave.",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"41"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.18428,37.770759 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"5/17/17",
+    "Name":"Unidentified man",
+    "Method":"choked",
+    "Location":"6400 block Foothill",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"47"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.222297,37.784908 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"5/23/17",
+    "Name":"Godofredo Nah-Pool",
+    "Method":"shot",
+    "Location":"2100 block Fruitvale",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.207419,37.76881 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"5/30/17",
+    "Name":"Unidentified man",
+    "Method":"shot",
+    "Location":"5100 block International",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.17617,37.75421 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"6/2/17",
+    "Name":"Dennis Johnson",
+    "Method":"shot",
+    "Location":"1400 block 85th Ave.",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.17618,37.75422 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"6/2/17",
+    "Name":"Kenya Levias",
+    "Method":"shot",
+    "Location":"1400 block 85th Ave.",
+    "City":"Oakland",
+    "Sex":"Female",
+    "Age":"47"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.234157,37.783654 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"6/4/17",
+    "Name":"David Donaville Jr.",
+    "Method":"shot",
+    "Location":"2300 block E. 15th St.",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.283212,37.811248 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"6/4/17",
+    "Name":"Andrew Williams",
+    "Method":"shot",
+    "Location":"1600 block Linden",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.168613,37.766776 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"6/16/17",
+    "Name":"Alexander Hayes",
+    "Method":"stabbed",
+    "Location":"7700 block MacArthur",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"39"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.286446,37.822242 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"6/20/17",
+    "Name":"Arlene George",
+    "Method":"shot",
+    "Location":"2800 block Hannah",
+    "City":"Oakland",
+    "Sex":"Female",
+    "Age":"24"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.190387,37.771547 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"6/23/17",
+    "Name":"Frank Avery",
+    "Method":"shot",
+    "Location":"Seminary & Foothill",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"18"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.16639,37.74867 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"6/11/17",
+    "Name":"Jose Gamero",
+    "Method":"shot",
+    "Location":"9500 block Birch",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.16638,37.74866 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"6/11/17",
+    "Name":"Pedro Gonzalez",
+    "Method":"shot",
+    "Location":"9500 block Birch",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261501,37.810715 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"7/17/17",
+    "Name":"Anthony Owens",
+    "Method":"beaten 7/16",
+    "Location":"200 block Grand Ave.",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.171325,37.767765 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"7/22/17",
+    "Name":"Edgar Trammel",
+    "Method":"shot",
+    "Location":"2700 block 75th Ave.",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"51"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261365,37.830413 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"8/9/17",
+    "Name":"Dave Deporis",
+    "Method":"dragged by car",
+    "Location":"400 block Rich",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.283966,37.809107 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"8/9/17",
+    "Name":"Wali Hardy",
+    "Method":"shot",
+    "Location":"14th & Linden",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.194753,37.76892 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"8/2/17",
+    "Name":"Kelvon Daniels",
+    "Method":"shot",
+    "Location":"5700 block Elizabeth",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.294872,37.805382 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"8/18/17",
+    "Name":"Gary Storm",
+    "Method":"shot",
+    "Location":"1400 block 7th St.",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"63"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.302345,37.807164 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"8/24/17",
+    "Name":"Joachim Hanwright",
+    "Method":"shot",
+    "Location":"1700 block 7th St.",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"46"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.166772,37.751151 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"8/25/17",
+    "Name":"Deandre Adams",
+    "Method":"shot",
+    "Location":"9200 block Olive",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.270342,37.81541 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"9/5/17",
+    "Name":"Dominic Jarvis",
+    "Method":"shot",
+    "Location":"Northgate & Sycamore",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"34"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.180831,37.784419 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"9/11/17",
+    "Name":"Jesus Martinez",
+    "Method":"shot",
+    "Location":"Davenport & Calaveras",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266558,37.831277 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"9/14/17",
+    "Name":"Jason Coleman",
+    "Method":"shot",
+    "Location":"500 block 42nd St.",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.178213,37.730909 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"9/19/17",
+    "Name":"Marla Minter-Brooks",
+    "Method":"shot",
+    "Location":"600 block Almanza",
+    "City":"Oakland",
+    "Sex":"Female",
+    "Age":"26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.174159,37.763676 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"9/24/17",
+    "Name":"Deivi Zacarias-Lopez",
+    "Method":"shot",
+    "Location":"7700 block Bancroft",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.214057,37.772033 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"9/25/17",
+    "Name":"Alphonso Ocon",
+    "Method":"shot Sept. 19",
+    "Location":"4300 block International",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.213444,37.776176 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"9/28/17",
+    "Name":"Unidentified man",
+    "Method":"undisclosed cause (officer-involved)",
+    "Location":"4100 block Foothill",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.241769,37.846455 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"9/29/17",
+    "Name":"Ernest B. Clark Jr.",
+    "Method":"beaten",
+    "Location":"6000 block Margarido",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"78"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.188131,37.75977 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"10/2/17",
+    "Name":"Schevette Butts",
+    "Method":"shot Sept. 12",
+    "Location":"7100 block International",
+    "City":"Oakland",
+    "Sex":"Female",
+    "Age":"62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.233959,37.782313 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"10/3/17",
+    "Name":"Jeffery Duckett",
+    "Method":"shot",
+    "Location":"2400 block International",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.190311,37.771767 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"10/10/17",
+    "Name":"Anibal Andres Ramirez",
+    "Method":"shot",
+    "Location":"2600 block Seminary",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.24024,37.788598 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"10/15/17",
+    "Name":"Demorea Reed",
+    "Method":"shot",
+    "Location":"1800 block Foothill",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"31"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.192588,37.749892 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"10/21/17",
+    "Name":"Unidentified man",
+    "Method":"shot",
+    "Location":"8000 block San Leandro",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"34"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.269732,37.808978 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"10/22/17",
+    "Name":"Cooky York",
+    "Method":"bludgeoned",
+    "Location":"1900 block Telegraph",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.290502,37.805496 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"10/29/17",
+    "Name":"Brandon Pakeman",
+    "Method":"shot",
+    "Location":"1200 bock Eighth St.",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.175075,37.742754 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"10/9/17",
+    "Name":"Omar Emad Abdallah",
+    "Method":"shot",
+    "Location":"9700 block C St.",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.178795,37.760518 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"11/5/17",
+    "Name":"Soane Mausia",
+    "Method":"shot",
+    "Location":"1700 block 78th Ave.",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"18"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.175417,37.749438 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"11/14/17",
+    "Name":"Errick Parker",
+    "Method":"shot",
+    "Location":"1300 block 90th Ave.",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"49"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.189193,37.759639 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"11/14/17",
+    "Name":"Blake Owens",
+    "Method":"stabbed",
+    "Location":"1200 block 71st Ave.",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"24"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.17928,37.745078 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"11/3/17",
+    "Name":"Darryl Perry",
+    "Method":"shot",
+    "Location":"9200 block E St.",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"39"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.242559,37.786074 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"11/23/17",
+    "Name":"Unidentified person",
+    "Method":"shot",
+    "Location":"1800 block E. 12th St.",
+    "City":"Oakland",
+    "Sex":"NA",
+    "Age":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.241071,37.785197 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"11/22/17",
+    "Name":"Terrell Gardner",
+    "Method":"shot",
+    "Location":"1900 block E. 12th St.",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.168597,37.766742 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"12/1/17",
+    "Name":"Raymond Barker",
+    "Method":"shot 11/30",
+    "Location":"7700 block MacArthur Blvd.",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.271872,37.815973 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"12/1/17",
+    "Name":"Eric Pettway",
+    "Method":"shot",
+    "Location":"2500 block Martin Luther King Jr. Way",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"51"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.271411,37.828603 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"12/12/17",
+    "Name":"Unidentified man",
+    "Method":"shot",
+    "Location":"Apgar & West",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.151218,37.742351 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"12/10/17",
+    "Name":"George Vargas Jr.",
+    "Method":"shot",
+    "Location":"107th & MacArthur",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"41"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.177172,37.753243 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"12/14/17",
+    "Name":"Gerald Easterling",
+    "Method":"shot",
+    "Location":"85th & International",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"41"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.170507,37.762795 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"12/16/17",
+    "Name":"Unidentified man",
+    "Method":"shot",
+    "Location":"2600 block Ritchie",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.20113,37.783151 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"12/14/17",
+    "Name":"Eric White",
+    "Method":"shot",
+    "Location":"4300 block Fleming",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.214485,37.777155 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"12/16/17",
+    "Name":"Kenneth Smith",
+    "Method":"shot",
+    "Location":"4000 block Foothill",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"47"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.173387,37.750055 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"12/17/17",
+    "Name":"Eddie Tatum",
+    "Method":"shot",
+    "Location":"1400 block 90th Ave.",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"34"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.191098,37.744631 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"12/22/17",
+    "Name":"Jimmy Martinez",
+    "Method":"shot",
+    "Location":"600 block 85th Ave.",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"54"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.274689,37.812917 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"12/23/17",
+    "Name":"Dominique Johnson",
+    "Method":"shot",
+    "Location":"2200 block Brush",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.18084,37.78443 ]
+    },
+    "properties": {
+    "marker-symbol":"circle-stroked"
+    "marker-size":"small"
+    "Date":"12/30/17",
+    "Name":"Deandre Moody",
+    "Method":"shot",
+    "Location":"found at Davenport & Calaveras",
+    "City":"Oakland",
+    "Sex":"Male",
+    "Age":"27"
+    }
+  }
+]
+}
